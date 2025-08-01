@@ -2,13 +2,12 @@
 
 ## Carregamento do Script
 
-Adicione o script do gateway em sua página HTML:
+Adicione o script do gateway em sua página:
 
 ```html
 <script src="https://api.dev.codiguz.com/functions/v1/js?v=vega"></script>
 ```
 
-## Guia de Implementação
 
 ### 1. Inicialização
 
